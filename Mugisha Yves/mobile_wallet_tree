@@ -1,0 +1,16 @@
+digraph {
+	1 [label="Amount: 50
+Merchant: Grocery Store"]
+	2 [label="Amount: 20
+Merchant: Coffee Shop"]
+	1 -> 2 [label=Left]
+	3 [label="Amount: 70
+Merchant: Electronics Store"]
+	1 -> 3 [label=Right]
+	5 [label="Amount: 10
+Merchant: Bakery"]
+	2 -> 5 [label=Left]
+	7 [label="Amount: 30
+Merchant: Book Store"]
+	2 -> 7 [label=Right]
+}

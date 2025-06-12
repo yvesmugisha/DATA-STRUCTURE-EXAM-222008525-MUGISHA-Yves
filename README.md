@@ -27,7 +27,11 @@ Concepts Applied:
 - Clean user interface in console
 
 
+
+
  How It Works
+
+
 
 The user is prompted to input the sizes and values of two matrices (A and B).
 A menu is displayed where the user can choose one of the following:
@@ -41,7 +45,14 @@ Memory used is safely deallocated after each operation and at program terminatio
 
 
 
+
+
+
   Author
+
+
+
+
 
 Yves MUGISHA
 mugishayves00@gmail.com

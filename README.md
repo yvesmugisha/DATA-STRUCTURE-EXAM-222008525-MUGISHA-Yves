@@ -9,11 +9,11 @@ This project is a C++ console-based framework that allows users to perform three
 Key Features
 
 - Modular design using a base class MatrixOp and derived operation classes
-- Matrix Addition – Adds two matrices of the same size
-- Matrix Multiplication – Multiplies compatible matrices
-- Matrix Inversion – Supports inversion of 2×2 matrices only
+- Matrix Addition which Adds two matrices of the same size
+- Matrix Multiplication which Multiplies compatible matrices
+- Matrix Inversion which Supports inversion of 2×2 matrices only
 - Dynamic memory allocation with safe cleanup
-- Interactive menu-based UI for smooth user experience
+- Interactive menu that based UI for smooth user experience
 - Input validation and error messaging
 
  
@@ -54,8 +54,8 @@ Memory used is safely deallocated after each operation and at program terminatio
 
 
 
-Yves MUGISHA
-mugishayves00@gmail.com
+Names: Yves MUGISHA
+Email: mugishayves00@gmail.com
 GitHub: @yvesmugisha
 
 
